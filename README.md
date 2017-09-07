@@ -6,7 +6,7 @@ The goal of Instagram Predictor is to use user profile data with basic post data
 * Trains dataset in 5 different machine learners with 10-fold cross validation 
 * Uses Python, Scikit-learn, Weka and Instgram API
 * More detailed report can be found [here](https://spark.adobe.com/page/eDAdXRsCYlteX/)
-* This project was done with my project partner [Jessica Li](jessicali1.2018@u.northwestern.edu) and mentor [Professor Downey](https://www.cs.northwestern.edu/~ddowney/) in EECS 349: Machine Learning at Northwestern University
+* This project was done with my project partner [Jessica Li](https://github.com/jurassicali) and mentor [Professor Downey](https://www.cs.northwestern.edu/~ddowney/) in EECS 349: Machine Learning at Northwestern University
 
 ## What are features? 
 For this project, we include user profile data along with data of each post to customize prediction for each user. Here is a list of features we used.
