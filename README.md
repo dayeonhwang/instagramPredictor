@@ -1,11 +1,11 @@
 # instagram-predictor
-*The goal of Instagram Predictor is to use user profile data with basic post data to help the average social media user make informed decisions about their Instagram posts.
+The goal of Instagram Predictor is to use user profile data with basic post data to help the average social media user make informed decisions about their Instagram posts.
 
 ## What does Instagram Predictor do?
-*Predicts popularity of instagram posts by scraping posts and analyzing 12 features of each post
-*Trains dataset in 5 different machine learners with 10-fold cross validation
-*Uses Python, Scikit-learn, Weka and Instgram API
-*More detailed report can be found here: https://spark.adobe.com/page/eDAdXRsCYlteX/
+*Predicts popularity of instagram posts by scraping posts and analyzing 12 features of each post \s\s
+*Trains dataset in 5 different machine learners with 10-fold cross validation \s\s
+*Uses Python, Scikit-learn, Weka and Instgram API \s\s
+*More detailed report can be found [here](https://spark.adobe.com/page/eDAdXRsCYlteX/) \s\s
 *This project was done with my project partner [Jessica Li](jessicali1.2018@u.northwestern.edu) and mentor [Professor Downey](https://www.cs.northwestern.edu/~ddowney/) in EECS 349: Machine Learning at Northwestern University
 
 ## What are features? 
